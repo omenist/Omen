@@ -6,3 +6,5 @@
   <p><i>Omen is a Process-less Powershell Loader Using System.Management.Automation Built into Powershell SDK.</i></p>
   <br />  
 </div>
+
+> ⚠️ Omen is in an extremely early state of development and Code, Plugins, APIs, etc. are likely to break from a future update.
