@@ -8,3 +8,17 @@
 </div>
 
 > ⚠️ Omen is in an extremely early state of development and Code, Plugins, APIs, etc. are likely to break from a future update.
+
+<div align="center">
+  <h1>Features</h1>
+  <br/>
+- Encrypted TCP Connection
+- Process-less Powershell Reverse Shell
+- Process-less file loader with PE (EXE, DLL) support
+- File-less Operations, all files loaded into memory
+- Plugin Support (Powershell Scripts)
+- Script Catalogue (Catalogue of saved scripts)
+- Script execution on connection
+- Multiple Themes (Dracula, Charcoal, Light-mode, Win11, etc.)
+- Multiple Payload Wrappers (HTA, JS, BAT, VBS)
+- Payload Obfuscation (Base64 and Source-Obfuscation)
