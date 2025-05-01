@@ -102,6 +102,6 @@ Feel free to check the [issues page](https://github.com/omenist/omen/issues) and
 
 ## ⚖️ License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the GNU General Public License. See [LICENSE](LICENSE) for more information.
 
 ---
